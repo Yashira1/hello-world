@@ -1,8 +1,4 @@
 # hello-world
 First repo
 
-Hello - THIS IS ME, EXPERIMENTING WITH GITHUB - WOOHOO!
-
-I LIKE BREAD
-
-ANOTHER LINE OF TEXT
+Hello - This is my first repo
